@@ -11,11 +11,11 @@ http://bl.ocks.org/gill-0/raw/aa2fb760e15b7aed658be402d37f1c46/
 
 ## Files
 
-R markdown document that includes code.
+R markdown document that includes code
 ```{r setup}
 red_wine.Rmd
 ```
-Knitted HTML file - shows same information at block link above
+Knitted HTML file - (shows same information at block link above)
 
 ```{r setup}
 red_wine.html
